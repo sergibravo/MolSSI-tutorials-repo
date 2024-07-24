@@ -1,0 +1,12 @@
+C to H : 1.088
+C to C : 1.403
+C to C : 1.403
+C to H : 1.088
+C to C : 1.403
+C to H : 1.088
+C to C : 1.403
+C to H : 1.088
+C to C : 1.403
+C to H : 1.088
+C to C : 1.403
+C to H : 1.088
